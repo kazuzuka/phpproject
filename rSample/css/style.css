@@ -1,0 +1,58 @@
+@charset "utf-8";
+
+body {
+	margin: 0 0 0 0;
+	padding: 0 0 0 0;
+	background-color: #f5f3eb;
+}
+#wrapper{
+	margin: 0 auto 0 auto;
+	width: 500px;
+}
+
+h2 {
+	color: #442220;
+	font-size: 18px;
+	border-bottom-width: 2px;
+	border-bottom-style: dotted;
+	border-bottom-color: #442220;
+	margin-top: 20px;
+	margin-right: 0px;
+	margin-bottom: 20px;
+	margin-left: 0px;
+	padding-top: 10px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+}
+
+form div {
+	padding:12px;
+	border-bottom: 1px dashed #d6c2b5;
+}
+
+select {
+	width: 10em;
+}
+
+label {
+	color: #442220;
+}
+
+textarea {
+	width: 30em;
+	height: 6em;
+}
+input[type=submit], input[type=reset]{
+	margin: 20px 12px;
+	width: 10em;
+}
+
+section div {
+	padding:5px;
+	height:100px;
+}
+
+.name, .mail, .password, .post_code{
+    
+}
